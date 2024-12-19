@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jurnal</string>
+    <string name="get_download">Get download</string>
+    <string name="sterge">Sterge</string>
+    <string name="expense">Expense</string>
+    <string name="expense_value">Expense</string>
+    <string name="inserted">Inserted</string>
+    <string name="loaded">Loaded</string>
+    <string name="empty_expense_value">Empty expense value</string>
+    <string name="deleted">Deleted</string>
+    <string-array name="spinner_values">
+        <item>are valoarea mai mare decat</item>
+        <item>are valoarea mai mica decat</item>
+        <item>are valoarea egala cu</item>
+    </string-array>
+</resources>
